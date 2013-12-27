@@ -1,0 +1,32 @@
+{
+  "name": "styl-middleware",
+  "version": "0.0.1",
+  "description": "Styl middleware for connect and express.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "mkdirp": "~0.3.5",
+    "lodash": "~2.4.1",
+    "styl": "~0.2.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skw/styl-middleware"
+  },
+  "keywords": [
+    "styl",
+    "rework"
+  ],
+  "author": "skw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skw/styl-middleware/issues"
+  }
+}
